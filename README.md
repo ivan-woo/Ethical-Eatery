@@ -2,7 +2,7 @@
 
 ## Overview
 
-Small restaurants have been struggling to stay afloat during the pandemic and are forced to rely on third-party delivery services such as Grubhub, Doordash, and Postmates. There have been reports indicating that relying on these services reduces revenue by 30% or more. However, customers flock to these apps that provide a quick and easy user interface, and many small restaurant owners struggle to compete with their own site. Ethical Eatery is an app geared towards supporting small mom-and-pop restaurant owners in maximizing their profits by allowing them to quickly create a listing on our central hub, while providing customers a way to support these small owners in a convenient way.
+Small restaurants have been struggling to stay afloat during the pandemic and are forced to rely on third-party delivery services. There have been reports indicating that relying on these services reduces revenue by 30% or more. However, customers flock to these apps that provide a quick and easy user interface, and many small restaurant owners struggle to compete with their own site. Ethical Eatery is an app geared towards supporting small mom-and-pop restaurant owners in maximizing their profits by allowing them to quickly create a listing on our central hub, while providing customers a convenient way to support these small owners in good conscience.
 
 ## Quick Recorded Demo [Here](https://youtu.be/jL3YSsU1D2k)!
 
